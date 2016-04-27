@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./inscriptionesbr00hbgoog_0007.png"; bbox 0 0 5258 6872; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1149 2649 1488 2746">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1149 2649 1488 2746">
+     <span class='ocr_line' id='line_1_1' title="bbox 1149 2649 1488 2746; baseline -0.003 0"><span class='ocrx_word' id='word_1_1' title='bbox 1149 2649 1488 2746; x_wconf 82' lang='lat' dir='ltr'><strong>SOOIETATI</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 658 2913 1907 3030">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 658 2913 1907 3030">
+     <span class='ocr_line' id='line_1_2' title="bbox 658 2913 1907 3030; baseline 0.001 -15"><span class='ocrx_word' id='word_1_2' title='bbox 658 2995 659 3000; x_wconf 13' lang='grc' dir='ltr'><strong><em>κ</em></strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 721 2913 1370 3030; x_wconf 84' lang='lat' dir='ltr'><strong>ANTIQVARIORVM</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 1405 2917 1907 3016; x_wconf 83' lang='lat' dir='ltr'>LONDINIENSI</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 1020 3165 1578 3512">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 1020 3165 1578 3512">
+     <span class='ocr_line' id='line_1_3' title="bbox 1251 3165 1578 3254; baseline 0 0"><span class='ocrx_word' id='word_1_5' title='bbox 1251 3179 1383 3254; x_wconf 91' lang='lat' dir='ltr'><strong>D·D</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 1522 3165 1578 3188; x_wconf 44' lang='lat'><strong>&#39;¹</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 1020 3434 1435 3512; baseline 0.007 -3"><span class='ocrx_word' id='word_1_7' title='bbox 1020 3459 1023 3468; x_wconf 92' lang='grc'><strong><em>·</em></strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 1193 3434 1435 3512; x_wconf 81' lang='lat' dir='ltr'>SCRIPTOR</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 781 3691 1730 3776">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 781 3691 1730 3776">
+     <span class='ocr_line' id='line_1_5' title="bbox 781 3691 1730 3776; baseline 0.001 -9"><span class='ocrx_word' id='word_1_9' title='bbox 781 3721 786 3730; x_wconf 94' lang='lat'>·</span> <span class='ocrx_word' id='word_1_10' title='bbox 895 3692 1116 3776; x_wconf 86' lang='lat' dir='ltr'><strong>HONORIS</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 1144 3691 1196 3768; x_wconf 91' lang='lat' dir='ltr'><strong>IN</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 1223 3692 1280 3767; x_wconf 85' lang='lat' dir='ltr'><strong>SE</strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 1309 3691 1524 3768; x_wconf 82' lang='lat' dir='ltr'>CONLATI</span> <span class='ocrx_word' id='word_1_14' title='bbox 1553 3692 1730 3768; x_wconf 87' lang='lat' dir='ltr'>MEMOR</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 0 0 2634 6868">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 0 0 2634 6868">
+     <span class='ocr_line' id='line_1_6' title="bbox 0 0 2634 6868; baseline 0 0"><span class='ocrx_word' id='word_1_15' title='bbox 0 0 2634 6868; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
